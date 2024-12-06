@@ -41,7 +41,7 @@
 
 ```
 
-<div align="center"><h1>Image(s)</h1></div>
+
 
 
 
